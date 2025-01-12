@@ -1,3 +1,2 @@
-/home/xuxiao/CLionProjects/data-structure-learn/cmake-build-debug/CMakeFiles/data_structure_learn.dir
 /home/xuxiao/CLionProjects/data-structure-learn/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/xuxiao/CLionProjects/data-structure-learn/cmake-build-debug/CMakeFiles/rebuild_cache.dir

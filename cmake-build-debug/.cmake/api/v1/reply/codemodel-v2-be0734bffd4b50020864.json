@@ -12,11 +12,7 @@
 						"string" : "3.30"
 					},
 					"projectIndex" : 0,
-					"source" : ".",
-					"targetIndexes" : 
-					[
-						0
-					]
+					"source" : "."
 				}
 			],
 			"name" : "Debug",
@@ -27,23 +23,10 @@
 					[
 						0
 					],
-					"name" : "data_structure_learn",
-					"targetIndexes" : 
-					[
-						0
-					]
+					"name" : "data_structure_learn"
 				}
 			],
-			"targets" : 
-			[
-				{
-					"directoryIndex" : 0,
-					"id" : "data_structure_learn::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-data_structure_learn-Debug-11c476c785823a197e3a.json",
-					"name" : "data_structure_learn",
-					"projectIndex" : 0
-				}
-			]
+			"targets" : []
 		}
 	],
 	"kind" : "codemodel",
