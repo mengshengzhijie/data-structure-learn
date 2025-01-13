@@ -41,35 +41,35 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = /home/xuxiao/CLionProjects/data-structure-learn/cmake-build-debug/Executable$ file/
 # =============================================================================
-# Object build statements for EXECUTABLE target hello
+# Object build statements for EXECUTABLE target 25_1_13-1
 
 
 #############################################
-# Order-only phony target for hello
+# Order-only phony target for 25_1_13-1
 
-build cmake_object_order_depends_target_hello: phony || .
+build cmake_object_order_depends_target_25_1_13-1: phony || .
 
-build CMakeFiles/hello.dir/src/learn/hello.c.o: C_COMPILER__hello_unscanned_Debug /home/xuxiao/CLionProjects/data-structure-learn/src/learn/hello.c || cmake_object_order_depends_target_hello
-  DEP_FILE = CMakeFiles/hello.dir/src/learn/hello.c.o.d
+build CMakeFiles/25_1_13-1.dir/src/learn/25_1_13-1.c.o: C_COMPILER__25_1_13-1_unscanned_Debug /home/xuxiao/CLionProjects/data-structure-learn/src/learn/25_1_13-1.c || cmake_object_order_depends_target_25_1_13-1
+  DEP_FILE = CMakeFiles/25_1_13-1.dir/src/learn/25_1_13-1.c.o.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/hello.dir
-  OBJECT_FILE_DIR = CMakeFiles/hello.dir/src/learn
+  OBJECT_DIR = CMakeFiles/25_1_13-1.dir
+  OBJECT_FILE_DIR = CMakeFiles/25_1_13-1.dir/src/learn
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target hello
+# Link build statements for EXECUTABLE target 25_1_13-1
 
 
 #############################################
-# Link the executable hello
+# Link the executable 25_1_13-1
 
-build hello: C_EXECUTABLE_LINKER__hello_Debug CMakeFiles/hello.dir/src/learn/hello.c.o
+build 25_1_13-1: C_EXECUTABLE_LINKER__25_1_13-1_Debug CMakeFiles/25_1_13-1.dir/src/learn/25_1_13-1.c.o
   FLAGS = -g
-  OBJECT_DIR = CMakeFiles/hello.dir
+  OBJECT_DIR = CMakeFiles/25_1_13-1.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = hello
-  TARGET_PDB = hello.dbg
+  TARGET_FILE = 25_1_13-1
+  TARGET_PDB = 25_1_13-1.dbg
 
 
 #############################################
@@ -105,7 +105,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /home/xuxiao/CLionProjects/data-structure-learn/cmake-build-debug/Executable file
 
-build all: phony hello
+build all: phony 25_1_13-1
 
 # =============================================================================
 # Built-in targets
